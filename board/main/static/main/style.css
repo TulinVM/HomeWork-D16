@@ -1,0 +1,12 @@
+header h1 {
+    background: url("skill2-1.png") left / auto 100% no-repeat, url("skill2-4.png") center / auto 200% no-repeat, url("skill2-3.png") right / auto 100% no-repeat;
+}
+.root {
+    font-size: larger;
+}
+img.main-image {
+    width: 300px;
+}
+img.additional-image {
+    width: 180px;
+}
